@@ -1,0 +1,29 @@
+h1 {
+  color: darkblue;
+  font-size: 60px;
+  font-family: PHOSPHATE;
+}
+.score {
+  color: #51ED05 ;
+}
+.gold {
+  color: #053DED;
+}
+#gameLink {
+  text-align: center;
+  border: 1px solid gray;
+}
+.Welcome to Flappy Fish {
+  color: #51ED05
+}
+p {
+  color: darkblue;
+  font-size: 20px;
+  font-family: PHOSPHATE;
+}
+ul {
+  color: blue;
+  font-size: 15px;
+  font-family: monaco;
+  text-align-left;
+}
