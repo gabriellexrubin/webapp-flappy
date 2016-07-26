@@ -27,3 +27,15 @@ ul {
   font-family: monaco;
   text-align-left;
 }
+.container {
+    position: relative;
+    text-align: center;
+}
+
+.images {
+    margin-left: 25%;
+}
+
+#game {
+    margin-left: 20%;
+}
